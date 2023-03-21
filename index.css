@@ -1,4 +1,5 @@
 /* HEADER */
+body{max-width:1200px}
 .contHeader{
     border: 20px #000 solid
 }
